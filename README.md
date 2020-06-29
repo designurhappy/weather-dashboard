@@ -12,6 +12,6 @@ Dashboard for weather outlook in multiple cities
 https://designurhappy.github.io/weather-dashboard/
 
 ## Contribution
-Made with by [Alicia]
+Made by [Alicia]
 
 
